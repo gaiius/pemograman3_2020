@@ -1,3 +1,1 @@
 Saya berhasil  koneksi git dari komputer ke cloud
-
-koment profesional dalam git atau kerja bareng
